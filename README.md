@@ -111,6 +111,8 @@ The tool auto-detects the context and adjusts behavior:
 | `AzureRescueToolkit.ps1` | Main PowerShell source script |
 | `AzureRescueToolkit.exe` | Compiled executable (PS2EXE, -NoConsole -RequireAdmin) |
 | `AzureRescueToolKit_LLD.docx` | Low Level Design document — detailed code blueprint |
+| `Azure VM Tool.png` | Screenshot of the tool's GUI |
+| `LICENSE` | MIT License |
 
 ---
 
