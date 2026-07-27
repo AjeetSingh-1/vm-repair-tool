@@ -111,8 +111,6 @@ The tool auto-detects the context and adjusts behavior:
 | `AzureRescueToolkit.ps1` | Main PowerShell source script |
 | `AzureRescueToolkit.exe` | Compiled executable (PS2EXE, -NoConsole -RequireAdmin) |
 | `AzureRescueToolKit_LLD.docx` | Low Level Design document — detailed code blueprint |
-| `AzureRescueToolKit_FixLog.docx` | Change log — all bug fixes and improvements |
-| `AzureRescueToolKit_TestChecklist.docx` | Production readiness test checklist (108 test cases) |
 
 ---
 
